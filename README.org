@@ -1,0 +1,5 @@
+* Minimal Spring Boot and Kotlin Project
+
+** How to start
+
+~./gradlew bootRun~
