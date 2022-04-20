@@ -11,6 +11,6 @@ class TestController {
 
     @GetMapping
     fun hello(): String {
-        return Date().time.toString()
+        return "1"
     }
 }
